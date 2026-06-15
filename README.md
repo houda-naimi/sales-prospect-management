@@ -32,8 +32,6 @@ The system:
 - Verifies the purchased license.
 - Grants access using a username and password.
 
----
-
 ## Prospect Management
 
 Sales agents can:
@@ -48,8 +46,6 @@ Sales agents can:
   - By phone call
 - View the complete list of prospects.
 
----
-
 ## Prospecting Management
 
 The application allows users to:
@@ -61,7 +57,6 @@ The application allows users to:
   - Houses
   - Commercial premises
   - Land plots
----
 
 ## Appointment Management
 
@@ -72,8 +67,6 @@ Available features:
 - Edit appointments
 - Delete appointments
 
----
-
 ## Complaint Management
 
 The after-sales service module allows users to:
@@ -82,8 +75,6 @@ The after-sales service module allows users to:
 - View complaints
 - Edit complaints
 - Delete complaints
-
----
 
 ## Payment Deadline Management
 
